@@ -1,6 +1,5 @@
-#  Curso digital Curso ada
+#  Curso digital ada
 ## Versionamento com o Git...
-* Comandos Utilizados em aula:
-* Comando git init, git status, git commit, git diff, git  diff --storeg, git restore, git log, git add, git push, git pull, git fetch
+# Comandos Utilizados:
 
-# Curso Didital ada
+* Comando git init, git status, git commit, git diff, git  diff --storeg, git restore, git log, git add, git push, git pull, git fetch.
