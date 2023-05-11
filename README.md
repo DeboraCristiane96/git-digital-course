@@ -1,3 +1,3 @@
 #  Curso digital Curso ada
 ## Versionamento
-* Uso do comando restore
+* Uso do comando git restore
